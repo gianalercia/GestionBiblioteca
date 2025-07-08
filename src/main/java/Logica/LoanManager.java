@@ -21,7 +21,7 @@ class LoanManager {
     public LoanManager(BookRepository repositorio) {
         this.repositorio = repositorio;
     }
-
+    //  Funcion echa por MAURO LEONEL GOMEZ <=========
     public void prestar(String isbn) {
         Book libro = repositorio.buscar(isbn); // Se busca el libro por su número y se almacena en la variable local libro
         if (libro == null) // Si el libro es null entonces no se encontró, arroja una excepción
