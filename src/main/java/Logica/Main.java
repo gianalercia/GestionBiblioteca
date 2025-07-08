@@ -71,4 +71,3 @@ public class Main {
 }
 
 
-//Comentario de Juan Gallardo - trabajo practico GIT
