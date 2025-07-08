@@ -16,7 +16,9 @@ public class Book {
     private String autor;
     private int añoPublicacion;
     private boolean disponible;
-    
+    // Santiago Civalero
+    // Agregar atributo editorial
+
     // Constructor de la clase Book usando los setters
     public Book(String isbn, String titulo, String autor, int añoPublicacion) {
         setIsbn(isbn); // Se reutilizan los setters con validación
