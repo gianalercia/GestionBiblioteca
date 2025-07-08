@@ -70,4 +70,7 @@ public class Main {
     }
 }
 
+
+//Este comentario es para el trabajo práctico de Git - Juan Gallardo
+
 //Este comentario es para el trabajo práctico de Git - Gian Alercia
